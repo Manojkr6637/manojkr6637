@@ -40,6 +40,8 @@ Joined Github 7+ years ago.
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue"></code>
 <code><img height="27" src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="nuxtjs"></code> 
+<code><img height="27" src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png" alt="laravel"></code> 
+<code><img height="27" src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png" alt="laravel"></code> 
 <code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870008-26005880-89a8-11eb-9da3-09faf8c80f9e.png" alt="javascript"></code>
 <code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870097-b048bc80-89a8-11eb-9cb4-d679c3f8bce5.png" alt="typescript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
