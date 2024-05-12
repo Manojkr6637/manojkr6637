@@ -38,8 +38,8 @@ Joined Github 7+ years ago.
 - ⚡ &nbsp; Fun fact: I love to play Football, Travelling
 ### Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870070-7f688780-89a8-11eb-9e33-6e7b5ddb9c7a.png" alt="nextjs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue"></code>
+<code><img height="27" src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="nuxtjs"></code> 
 <code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870008-26005880-89a8-11eb-9da3-09faf8c80f9e.png" alt="javascript"></code>
 <code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870097-b048bc80-89a8-11eb-9cb4-d679c3f8bce5.png" alt="typescript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
@@ -49,11 +49,11 @@ Joined Github 7+ years ago.
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
+<!--
 ### Projects and Dev Stuff:
 
  
- 
+ -->
  
 #
 
