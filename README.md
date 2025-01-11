@@ -1,10 +1,12 @@
 ## Hey 👋, I'm [Manoj Kumar Sah!](https://manojkumarsah.medium.com/) and you've reached my Dev space on the WWW :)
 
- 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://manojkumarsah.com) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-sah/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manojkumar904) 
-[![Hashnode Badge](https://img.shields.io/badge/Medium-0a0201?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@manojkumarsah)
- 
+[![Medium for writting](https://img.shields.io/badge/Medium-0a0201?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@manojkumarsah)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manojkumar_9040/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@manojkumarsah900)
+
 
 <img align="right" width="100" alt="" src="assets/rzp.gif" />
 
@@ -34,12 +36,14 @@ Joined Github 7+ years ago.
 - 💻 &nbsp; I love to explore new tech and build cool stuff with it.
 - 📰 &nbsp; Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-- ⚡ &nbsp; Fun fact: I love to play Football, Travelling
+- ⚡ &nbsp; Fun fact: I love to read, writing, Travelling
 ### Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" alt="Nextjs"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Nextjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Reactjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="Aws"></code> 
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></code> 
 <code><img height="27" src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="nuxtjs"></code> 
 <code><img height="27" src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png" alt="laravel"></code>  
 <code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870008-26005880-89a8-11eb-9da3-09faf8c80f9e.png" alt="javascript"></code>
