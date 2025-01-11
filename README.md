@@ -3,9 +3,8 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-sah/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manojkumar904) 
-[![Hashnode Badge](https://img.shields.io/badge/Medium-0a0201?style=for-the-badge&logo=medium&logoColor=white)](https://manoj-cool.medium.com/)
-
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=bhatvikrant.bhatvikrant&style=flat-square&color=0088cc)
+[![Hashnode Badge](https://img.shields.io/badge/Medium-0a0201?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@manojkumarsah)
+ 
 
 <img align="right" width="100" alt="" src="assets/rzp.gif" />
 
@@ -13,14 +12,14 @@ Currently working at the Government of India(NIC) Payroll Company [SilverTouch](
 I'm a passionate learner who's
 always willing to learn and work across technologies and domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨.
-Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep Full Stack Developer(Nuxt JS,VueJS,Laravel, ReactJS) 👨‍💻Devops(Ubutun, CICD, Docker,AWS, Kubernetes).
+Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm a deep Full Stack Developer(Nuxt JS, VueJS, Laravel, ReactJS, Nextjs) 👨‍💻Devops(Ubutun, CICD, Docker,AWS, Kubernetes).
 
 Joined Github 7+ years ago.
   
  
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with Nuxtjs, Vuejs, Typescript, NodeJS & Tailwind.
+- 🛠 &nbsp; Currently working with Nextjs, Reactjs Nuxtjs, Vuejs, Typescript, NodeJS & Tailwind.
 - 🛠 &nbsp; What I want to do problem solving:[LeetCode](https://leetcode.com/u/manojkr6637),
    [GeekForGeek](https://www.geeksforgeeks.org/user/manojkumar84/) 
 - 👀 &nbsp; What I want to learn: Golang, Rust(should I?)
