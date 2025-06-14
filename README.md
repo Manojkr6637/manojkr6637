@@ -14,29 +14,28 @@ Currently working at the Government of India(NIC) Payroll Company [SilverTouch](
 I'm a passionate learner who's
 always willing to learn and work across technologies and domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨.
-Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm a deep Technical Full Stack Engineer(Nuxt JS, VueJS, Laravel, ReactJS, Nextjs) 👨‍💻Devops(Ubuntun, CICD, Docker, AWS, Kubernetes).
+Apart from that, I also love to guide and mentor newbies 👨🏻‍💻. I'm a Lead Frontend Engineer | Vue.js/Nuxt.js & React.js/Next.js | Scalable Micro-Frontend Architect | Full Stack (Laravel, Docker, CI/CD, Kubernetes, AWS) | Writing & Sharing Tech Insights.
 
 Joined Github 7+ years ago.
   
  
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; Currently working with Nextjs, Reactjs Nuxtjs, Vuejs, Typescript, NodeJS & Tailwind.
+- 🛠 &nbsp; Currently working with Nextjs, Reactjs, Nuxtjs, Vuejs, Typescript & Tailwind.
 - 🛠 &nbsp; What I want to do problem solving:[LeetCode](https://leetcode.com/u/manojkr6637),
    [GeekForGeek](https://www.geeksforgeeks.org/user/manojkumar84/) 
-- 👀 &nbsp; What I want to learn: AI, Web3 or Blockchain
+- 👀 &nbsp; What I want to learn: AI, Devops(Cloud- AWS)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [https://github.com/Manojkr6637).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/Manojkr6637/Manojkr6637/issues/1)! I am happy to help.
-- 👾 &nbsp; Fun fact: undefined can be defined in Javascript. 
+- 💬 &nbsp; Ask me about anything [here](https://github.com/Manojkr6637/Manojkr6637/issues/1)! I am happy to help. 
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/manojkumar904) or manojkr6637@gmail.com. 
-- 🚀 &nbsp; I’m currently learning Nextjs, Devops.
+- 🚀 &nbsp; I’m currently learning DevOps and AI tech and tools.
 - 🚀 &nbsp; I’m currently Vice President Member(VPM)-Toastmaster Speaking & Leadership Skills(TMSL)
-### My Absolute Favorites:
+### My Absolute Favourites:
 
 - 💻 &nbsp; I love to explore new tech and build cool stuff with it.
 - 📰 &nbsp; Reading & writing tech blogs whenever I find a not-so-common solution to a problem I personally faced.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-- ⚡ &nbsp; Fun fact: I love to read, writing, Travelling
+- ⚡ &nbsp; Fun fact: I love to read, write, and travel
 ### Languages and Tools:
 
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Nextjs"></code>
